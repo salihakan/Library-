@@ -1,0 +1,6 @@
+{
+  "name": "İslam Kütüphanesi",
+  "description": "7 kategorili İslami külliyat, çift panel konu ve kitap tarayıcı, sesli okuma (TTS), lügat, notlar, okuma istatistikleri ve JSON yedekleme destekli kitap okuyucu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
